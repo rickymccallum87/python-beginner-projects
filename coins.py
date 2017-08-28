@@ -1,6 +1,6 @@
 import copy
 
-# A reference dictionary
+# Reference for information on each type of coin
 #                  coin: [weight, count, wrapper, value]
 reference = { 'pennies': [   2.5,     0,      50,   .01],
               'nickels': [   5.0,     0,      40,   .05],
